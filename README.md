@@ -112,7 +112,7 @@ vision-ui-dashboard-pro-chakra/
 └── src
     ├── assets
     │   ├── css
-    │   │   └── pud-dashboard-styles.css
+    │   │   └── vud-dashboard-styles.css
     │   ├── img
     │   └── svg
     ├── components
